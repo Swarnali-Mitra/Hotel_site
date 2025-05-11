@@ -1,0 +1,16 @@
+.cta-button {
+    display: inline-block;
+    background-color: #4caf50; /* Green background */
+    color: white;              /* White text */
+    padding: 12px 24px;        /* Top/bottom, Left/right padding */
+    text-decoration: none;     /* No underline */
+    font-size: 16px;           /* Font size */
+    border-radius: 8px;        /* Rounded corners */
+    transition: background-color 0.3s ; /* Smooth hover effect */
+  margin-left: 20px ;
+  }
+  
+  .cta-button:hover {
+    background-color: #134715; /* Darker green on hover */
+  }
+.p{padding-left: 38px;}
